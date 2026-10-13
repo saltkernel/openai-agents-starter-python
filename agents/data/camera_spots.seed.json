@@ -18,12 +18,23 @@
       "lat": 22.5003,
       "lng": 113.9316,
       "spot_type": "滨水广场",
-      "tags": ["日系", "胶片", "江边", "日落", "开阔", "剪影"],
+      "tags": [
+        "日系",
+        "胶片",
+        "江边",
+        "日落",
+        "开阔",
+        "剪影"
+      ],
       "best_time": "17:30-19:00",
       "best_direction": "西",
       "desc": "开阔水面加对岸天际线，日落时天空与水面形成双层反射，适合大场景与人物剪影。退潮时滩涂纹理可作前景。",
       "lens": "16-35mm 广角主拍，70-200mm 拍对岸天际线",
-      "crowd_hint": { "morning": "低", "afternoon": "中", "golden": "高" },
+      "crowd_hint": {
+        "morning": "低",
+        "afternoon": "中",
+        "golden": "高"
+      },
       "coord_verified": false
     },
     {
@@ -31,12 +42,22 @@
       "lat": 22.5145,
       "lng": 113.9405,
       "spot_type": "打卡点",
-      "tags": ["日系", "夜景", "城市", "桥", "灯光"],
+      "tags": [
+        "日系",
+        "夜景",
+        "城市",
+        "桥",
+        "灯光"
+      ],
       "best_time": "18:00-19:30",
       "best_direction": "西南",
       "desc": "桥体线条规整，适合做引导线构图；入夜后灯光亮起，可拍蓝调时刻的冷暖对比。桥面人流大，建议使用长焦压缩。",
       "lens": "35mm 人文，85mm 以上压缩人流",
-      "crowd_hint": { "morning": "低", "afternoon": "中", "golden": "高" },
+      "crowd_hint": {
+        "morning": "低",
+        "afternoon": "中",
+        "golden": "高"
+      },
       "coord_verified": false
     },
     {
@@ -44,12 +65,22 @@
       "lat": 22.5107,
       "lng": 113.9459,
       "spot_type": "艺术中心",
-      "tags": ["建筑", "现代", "几何", "对称", "傍晚"],
+      "tags": [
+        "建筑",
+        "现代",
+        "几何",
+        "对称",
+        "傍晚"
+      ],
       "best_time": "16:30-18:30",
       "best_direction": "东",
       "desc": "钢结构网格 + 大面积反光材质，适合极简与几何构图。日落前后玻璃幕墙会映出天空色，出片层次强。",
       "lens": "16-35mm 广角，带偏振镜压反光",
-      "crowd_hint": { "morning": "低", "afternoon": "低", "golden": "中" },
+      "crowd_hint": {
+        "morning": "低",
+        "afternoon": "低",
+        "golden": "中"
+      },
       "coord_verified": false
     },
     {
@@ -57,12 +88,22 @@
       "lat": 22.5408,
       "lng": 113.9835,
       "spot_type": "老街区",
-      "tags": ["人文", "胶片", "街拍", "涂鸦", "文艺"],
+      "tags": [
+        "人文",
+        "胶片",
+        "街拍",
+        "涂鸦",
+        "文艺"
+      ],
       "best_time": "15:00-17:30",
       "best_direction": "不限",
       "desc": "旧厂房红砖墙 + 涂鸦墙 + 长巷道纵深，是人文街拍的主场。下午侧光会在墙面形成强质感，适合胶片风格。",
       "lens": "35mm 定焦最顺手",
-      "crowd_hint": { "morning": "低", "afternoon": "中", "golden": "中" },
+      "crowd_hint": {
+        "morning": "低",
+        "afternoon": "中",
+        "golden": "中"
+      },
       "coord_verified": false
     },
     {
@@ -70,25 +111,43 @@
       "lat": 22.4844,
       "lng": 113.9166,
       "spot_type": "打卡点",
-      "tags": ["夜景", "复古", "城市", "电影感"],
+      "tags": [
+        "夜景",
+        "复古",
+        "城市",
+        "电影感"
+      ],
       "best_time": "19:00-21:00",
       "best_direction": "北",
       "desc": "游轮主体作为画面焦点，周边广场灯光密集，适合夜景电影感与光斑散景。夜间人流大，建议用大光圈虚化人群。",
       "lens": "35mm f/1.4 或 50mm f/1.8",
-      "crowd_hint": { "morning": "低", "afternoon": "中", "golden": "高" },
+      "crowd_hint": {
+        "morning": "低",
+        "afternoon": "中",
+        "golden": "高"
+      },
       "coord_verified": false
     },
     {
       "name": "莲花山公园·山顶广场",
-      "lat": 22.5560,
+      "lat": 22.556,
       "lng": 114.0555,
       "spot_type": "公园",
-      "tags": ["城市", "俯瞰", "日落", "全景"],
+      "tags": [
+        "城市",
+        "俯瞰",
+        "日落",
+        "全景"
+      ],
       "best_time": "17:00-19:30",
       "best_direction": "南",
       "desc": "登高俯瞰城市中轴线，是拍城市天际线与日落的经典点位。需要留出 25 分钟上山时间，建议带三脚架。",
       "lens": "24-105mm 变焦，长焦可压缩楼群",
-      "crowd_hint": { "morning": "低", "afternoon": "中", "golden": "高" },
+      "crowd_hint": {
+        "morning": "低",
+        "afternoon": "中",
+        "golden": "高"
+      },
       "coord_verified": false
     },
     {
@@ -96,12 +155,22 @@
       "lat": 22.5424,
       "lng": 113.9176,
       "spot_type": "老街区",
-      "tags": ["人文", "老街", "胶片", "市井", "雨天"],
+      "tags": [
+        "人文",
+        "老街",
+        "胶片",
+        "市井",
+        "雨天"
+      ],
       "best_time": "16:00-18:00",
       "best_direction": "北",
       "desc": "窄巷 + 店招 + 骑楼，雨天湿地面反光是加分项，适合市井人文与胶片色调。拍摄注意不要对准居民正面。",
       "lens": "28mm 或 35mm 定焦",
-      "crowd_hint": { "morning": "低", "afternoon": "中", "golden": "中" },
+      "crowd_hint": {
+        "morning": "低",
+        "afternoon": "中",
+        "golden": "中"
+      },
       "coord_verified": false
     },
     {
@@ -109,13 +178,136 @@
       "lat": 22.5931,
       "lng": 114.4785,
       "spot_type": "老街区",
-      "tags": ["古风", "人文", "老街", "砖墙"],
+      "tags": [
+        "古风",
+        "人文",
+        "老街",
+        "砖墙"
+      ],
       "best_time": "16:00-18:00",
       "best_direction": "南",
       "desc": "明代城墙与麻石街面，砖墙质感适合古风与人文题材。距市区较远，需预留往返 3 小时以上。",
       "lens": "35mm 人文，85mm 拍门洞框景",
-      "crowd_hint": { "morning": "低", "afternoon": "中", "golden": "中" },
+      "crowd_hint": {
+        "morning": "低",
+        "afternoon": "中",
+        "golden": "中"
+      },
       "coord_verified": false
+    },
+    {
+      "name": "深圳湾公园",
+      "lat": 22.518968,
+      "lng": 113.972602,
+      "spot_type": "公园",
+      "tags": [
+        "城市",
+        "开阔",
+        "休闲",
+        "清新",
+        "日落"
+      ],
+      "best_time": "17:00-18:00",
+      "best_direction": "正东",
+      "desc": "城市绿地，适合休闲人像与日常街拍，黄金时段光比柔和、出片稳定。",
+      "lens": "24-105mm 变焦",
+      "crowd_hint": {
+        "morning": "低",
+        "afternoon": "中",
+        "golden": "中"
+      },
+      "coord_verified": true
+    },
+    {
+      "name": "深圳大鹏半岛国家地质公园",
+      "lat": 22.521436,
+      "lng": 114.571709,
+      "spot_type": "公园",
+      "tags": [
+        "城市",
+        "开阔",
+        "休闲",
+        "清新"
+      ],
+      "best_time": "16:58-17:58",
+      "best_direction": "正东",
+      "desc": "城市绿地，适合休闲人像与日常街拍，黄金时段光比柔和、出片稳定。",
+      "lens": "24-105mm 变焦",
+      "crowd_hint": {
+        "morning": "低",
+        "afternoon": "中",
+        "golden": "中"
+      },
+      "coord_verified": true
+    },
+    {
+      "name": "红树林海滨生态公园",
+      "lat": 22.522076,
+      "lng": 113.998082,
+      "spot_type": "公园",
+      "tags": [
+        "城市",
+        "开阔",
+        "休闲",
+        "清新",
+        "海岸",
+        "日落"
+      ],
+      "best_time": "17:00-18:00",
+      "best_direction": "正东",
+      "desc": "城市绿地，适合休闲人像与日常街拍，黄金时段光比柔和、出片稳定。",
+      "lens": "24-105mm 变焦",
+      "crowd_hint": {
+        "morning": "低",
+        "afternoon": "中",
+        "golden": "中"
+      },
+      "coord_verified": true
+    },
+    {
+      "name": "鹅公湾",
+      "lat": 22.485169,
+      "lng": 114.489348,
+      "spot_type": "打卡点",
+      "tags": [
+        "城市",
+        "生活",
+        "日落",
+        "开阔"
+      ],
+      "best_time": "16:58-17:58",
+      "best_direction": "正东",
+      "desc": "城市点位，适合日常街拍与人像记录；建议黄金时段拍摄以获取柔和光比。",
+      "lens": "24-70mm 变焦最稳妥",
+      "crowd_hint": {
+        "morning": "中",
+        "afternoon": "高",
+        "golden": "高"
+      },
+      "coord_verified": true
+    },
+    {
+      "name": "深圳仙湖植物园-弘法寺",
+      "lat": 22.577514,
+      "lng": 114.182141,
+      "spot_type": "老街区",
+      "tags": [
+        "人文",
+        "胶片",
+        "市井",
+        "古风",
+        "开阔"
+      ],
+      "best_time": "15:00-17:30",
+      "best_direction": "正东",
+      "desc": "窄巷、店招与砖墙质感并存，适合市井人文与胶片色调；拍摄注意不要正面拍摄居民。",
+      "lens": "28mm 或 35mm 定焦",
+      "crowd_hint": {
+        "morning": "中",
+        "afternoon": "中",
+        "golden": "高"
+      },
+      "coord_verified": true
     }
   ]
 }
